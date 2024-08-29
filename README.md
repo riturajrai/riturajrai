@@ -119,5 +119,8 @@ That's why I like to make things that make a difference.  <br>📚 I'm currently
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/riturajrai/riturajrai/output/snake.svg" alt="Snake animation" />
+
+###
  
 
