@@ -5,7 +5,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
+  <img height="200" width=500"" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 </div>
 
 
