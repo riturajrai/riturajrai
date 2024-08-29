@@ -9,7 +9,7 @@
 </div>
 
 
-<h5 align="left">I'm Rituraj Rai a full-time full-stack freelance developer 👨‍💻</h5>
+<h5 align="center">I'm Rituraj Rai a full-time full-stack freelance developer 👨‍💻</h5>
 
 ###
 
