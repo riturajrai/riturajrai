@@ -102,13 +102,13 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=riturajrai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
+<img src="https://raw.githubusercontent.com/riturajrai/riturajrai/output/snake.svg" alt="Snake animation" />
 name: Generate snake animation
 
 on:
@@ -143,6 +143,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<img src="https://raw.githubusercontent.com/riturajrai/riturajrai/output/snake.svg" alt="Snake animation" />
-
 ###
+
